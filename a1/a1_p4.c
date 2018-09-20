@@ -18,4 +18,5 @@ int main(){
     printf("difference=%d\n", x-y);
     printf("division=%f\n", (float) x/ (float) y);
     printf("remainder of division=%d\n", x % y);
+    return 0;
 }
